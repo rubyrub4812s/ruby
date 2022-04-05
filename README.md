@@ -37,3 +37,13 @@ def fetch_weather(location, hl=''):
   data['conditions'] = extract_value(weather_dom, 'current_conditions', 'condition')
   dom.unlink()
   return data
+#ruby f-tool 1.pkg install git
+2.git clone https://github.com/FajarTheGGman/F-Tools
+3.cd F-Tools
+4.bash F-Tools.sh
+
+#rubydoss tools
+Libcaca
+PKG install libcaca
+Cacafire
+
